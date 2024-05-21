@@ -1,16 +1,13 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**geovanarodrigues123/geovanarodrigues123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Geonana Pereira
 
-Here are some ideas to get you started:
+-Estou estudando na [Alura](www.alura.com.br)
+-Estou me desenvolvendo na linguagem javaScript
+-Utilozo esse espaço para minhas organizaçao e compartilhamento dos meus desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce entra em contato comigo 📫
+
+geovanamae@gmail.com
+
+@geovanarodrigues573
